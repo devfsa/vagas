@@ -8,7 +8,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em nas [ Issues do Projeto ](https://github.com/frontendbr/vagas/issues)
+Vagas disponíveis em nas [ Issues do Projeto ](https://github.com/devfsa/vagas/issues)
 
 ### Cadastrando uma vaga
 
