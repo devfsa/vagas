@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/cover.jpg" alt="Dev FSA">
+<img src="images/logo.jpg" width="300" alt="Dev FSA">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">🔬 Espaço para divulgação de vagas para desenvolvedores em Feira de Santana e Região.</p>
