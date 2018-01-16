@@ -23,3 +23,7 @@ Informe quais _labels_ devemos adicionar, contendo o nível de experiência dese
 #### Importante
 
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma será fechada por um moderador do repositório.
+
+### Licença
+
+[MIT](/LICENSE) &copy; FrontendBR
