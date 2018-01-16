@@ -1,14 +1,10 @@
 <!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
-
 Não faça distinção de gênero no titulo da vaga.
 
 Use: "Front-End Developer" ao invés de 
 "Desenvolvedor Front-End" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
-==================================================
+Exemplo: `[Remoto] Front-End Developer na NOME DA EMPRESA`
 -->
 
 ## Descrição da vaga
@@ -17,7 +13,7 @@ Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Escritório, Feira de Santana - Capuchinhos
 
 ## Benefícios
 
@@ -27,7 +23,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 - Auxílio creche
 - ...
 
-#### Diferenciais
+**Diferenciais:**
 
 - 2 horas de almoço
 - monte a sua máquina como desejar
