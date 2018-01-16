@@ -16,7 +16,8 @@ Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre co
 
 Exemplo: `[Salvador] Front-End Developer na [NOME DA EMPRESA]`
 
-Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
+Informe quais [_labels_](https://github.com/devfsa/vagas/labels?sort=name-asc) devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
+
 
 **Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
 
